@@ -1,2 +1,4 @@
 Pierwsza linijka tekstu.
 Druga linijka tekstu.
+Trzecia linijka tekstu.
+Czwarta linijka tekstu.
