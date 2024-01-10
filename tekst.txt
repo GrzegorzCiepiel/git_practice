@@ -1,0 +1,2 @@
+Pierwsza linijka tekstu.
+Druga linijka tekstu.
